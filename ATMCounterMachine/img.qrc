@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>img/HelpBackgroud.jpg</file>
+        <file>img/blueBackgroud.jpg</file>
+        <file>img/qsBackgroud.jpg</file>
+        <file>img/blueBackgroud2.jpg</file>
+        <file>img/blackBackground.jpg</file>
+        <file>img/HelpBackground2.jpg</file>
+        <file>img/HelpBackground3.jpg</file>
+        <file>img/HelpBackground4.jpg</file>
+        <file>img/redBackgroud.jpg</file>
+        <file>img/blueBackgroud3.jpg</file>
+        <file>img/error.png</file>
+        <file>img/info.png</file>
+        <file>img/update.png</file>
+        <file>img/background1.jpg</file>
+        <file>img/ChinaJSBank.png</file>
+        <file>img/ChinaJSBank3.jpg</file>
+        <file>img/blue5.jpg</file>
+        <file>img/jsBank.jpg</file>
+        <file>img/jsBank.png</file>
+        <file>img/nyBank.png</file>
+        <file>img/greeBackground.jpg</file>
+        <file>img/greed2.jpg</file>
+        <file>img/greed3.jpg</file>
+        <file>img/Greed5.jpg</file>
+        <file>img/ChinaGSBank.jpg</file>
+        <file>img/OrangeYellow.jpg</file>
+        <file>img/OrangeYellow1.jpg</file>
+        <file>img/OrangeYellow2.jpg</file>
+        <file>img/ChinaBank.png</file>
+        <file>img/Yellow.png</file>
+        <file>img/tuYellow.jpg</file>
+        <file>img/JTBank.png</file>
+        <file>img/balckBackground1.jpg</file>
+        <file>img/whiteBackgournd.jpg</file>
+        <file>img/ChinaJSBank6.png</file>
+        <file>img/loding.gif</file>
+        <file>img/loading1.gif</file>
+        <file>img/loading2.gif</file>
+        <file>img/loading3.gif</file>
+        <file>img/Ida.png</file>
+        <file>img/FristPage.jpg</file>
+        <file>img/ATM.ico</file>
+    </qresource>
+</RCC>
